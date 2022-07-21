@@ -15,7 +15,7 @@ para poder ser ajustada conforme a tela, bem como a sessão de depoimentos.
 
 
 
-![index](https://user-images.githubusercontent.com/104173458/180313577-b960819f-d317-4565-bc6a-f643e78347f7.png)
+
 
 
 
