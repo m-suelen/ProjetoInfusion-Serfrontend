@@ -1,6 +1,6 @@
 # 05 Projeto Infusion
 
-Curso de Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos pela Udemy
+Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos do Serfrontend cursos pela Udemy
 
 Último projeto do curso feito em HTML, CSS e Javascript
 
