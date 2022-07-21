@@ -14,6 +14,8 @@ apresentação de slides também usa várias propriedades, como Posição e Z-í
 para poder ser ajustada conforme a tela, bem como a sessão de depoimentos.
 
 
+Confira o resultado -> https://infusion-project.netlify.app/
+
 
 
 
